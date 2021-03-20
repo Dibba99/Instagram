@@ -43,4 +43,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![GIF](https://github.com/Dibba99/Instagram/blob/master/GIF/ezgif.com-gif-maker%20(6).gif)
